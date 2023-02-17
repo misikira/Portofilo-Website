@@ -18,19 +18,8 @@ REQUIRED SECTIONS:
 - Show your support
 - Acknowledgements
 - License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
+ <h3><b>Microverse README Template</b></h3>
 
 </div>
 
@@ -55,53 +44,31 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [your_project_name] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+Project name:Personla Portofilo Website 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
+  Nothing sepecial here the project only uses css and html as the project is only get started
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+
+- Has got a header that has logo and movile navigation menu icon
+- About me section that tells about me
+- Contains a call to action button to ask interested people for collabreation 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +76,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+-Curently underconstruction i promise to get you updated later
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,34 +84,28 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+-You can clone this project from this repo and run on your local machine using your perfered code editor 
+-this project contaons linteser for code performance and clean code you can run this code on your code editor to check for any styling issues npx stylelint "**/*.{css,scss}"
 
 ### Prerequisites
 
-In order to run this project you need:
+Installation of Git
+Installation of NPM
+A working browser
+Internet connection
+A code editor like Visual Studio Code
+Installation of Live Server plugging in Visual Studio Code
+Any other tool you can think about
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+npm install 
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
 Example commands:
-
-```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
@@ -163,7 +122,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+npm start
 
 <!--
 Example command:
@@ -175,7 +134,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+for testing isssues npx stylelint "**/*.{css,scss}"
 
 <!--
 Example command:
@@ -186,8 +145,7 @@ Example command:
 --->
 
 ### Deployment
-
-You can deploy this project using:
+your perfered deployment platform and techinque 
 
 <!--
 Example:
@@ -200,10 +158,7 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
+Authors <a name="authors"></a>
 
 👤 **Author1**
 
@@ -211,23 +166,15 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- A colletion of cards to showcase my previous works
+- Social media outlets to get connceted with your favorite platform
+- Skils section to show my programming ,library and framework skills
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,9 +192,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+>the author of this code welome every comments please leave me your tought on misikirteka@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,27 +200,11 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
+> Without you this work is not possible i thank you
+1.coding partners
+2.code reviewers 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
@@ -283,6 +212,6 @@ I would like to thank...
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+-Want to learn more folow the link [MIT license](https://choosealicense.com/licenses/mit/) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

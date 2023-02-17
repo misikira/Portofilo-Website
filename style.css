@@ -1,8 +1,12 @@
+html {
+  font-size: 10px;
+}
+
 body {
-  height: 4910px;
-  width: 320px;
-  left: 6158px;
-  top: -2164px;
+  height: 491rem;
+  width: 32rem;
+  left: 615.8rem;
+  top: -216.4rem;
 }
 
 .toolbar-header {
@@ -12,16 +16,16 @@ body {
 }
 
 .header-img1 {
-  height: 74px;
-  width: 111px;
+  height: 7.4rem;
+  width: 11.1rem;
   position: absolute;
 }
 
 .header-img2 {
-  height: 14px;
-  width: 20px;
-  left: 284px;
-  top: 19px;
+  height: 1.4rem;
+  width: 2rem;
+  left: 28.4rem;
+  top: 1.9rem;
   position: absolute;
 }
 
@@ -32,51 +36,57 @@ body {
 }
 
 .name {
-  height: 100px;
-  width: 220px;
-  left: 16px;
-  top: 104px;
+  height: 10rem;
+  width: 22rem;
+  left: 1.6rem;
+  top: 10.4rem;
   border-radius: nullpx;
   position: absolute;
-  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
-  font-size: 50px;
-  font-weight: 400;
-  line-height: 50px;
+  font-family: Poppins, sans-serif;
+  font-size: 5rem;
+  font-weight: 40rem;
+  line-height: 5rem;
   text-align: left;
   color: #1a2236;
   text-transform: capitalize;
 }
 
 .about-me-detail {
-  height: 147px;
-  width: 288px;
-  left: 16px;
-  top: 221px;
+  height: 14.7rem;
+  width: 28.8rem;
+  left: 1.6rem;
+  top: 22.1rem;
   border-radius: nullpx;
   position: absolute;
-  margin-top: 37px;
-  font-family: 'Poppins';
+  margin-top: 4.7rem;
+  font-family: Poppins, sans-serif;
   font-style: snormal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 21px;
+  font-weight: 40rem;
+  font-size: 1.4rem;
+  line-height: 2.1rem;
   letter-spacing: -0.01em;
   color: #1a2236;
 }
 
 .colbrate-with-me {
-  height: 50px;
-  width: 288px;
-  left: 16px;
-  top: 390px;
+  height: 5rem;
+  width: 28.8rem;
+  left: 1.6rem;
+  top: 39rem;
   position: absolute;
   background-color: #1a2236;
   color: #fff;
-  font-family: Poppins;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 24px;
+  font-family: Poppins, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 50rem;
+  line-height: 1.5rem;
   text-align: center;
   border: none;
-  margin-top: -22px;
+  margin-top: 1rem;
+}
+
+.colbrate-with-me:hover {
+  border: 1px solid #1a2236;
+  background-color: #fff;
+  color: #1a2236;
 }

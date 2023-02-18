@@ -3,8 +3,6 @@ html {
 }
 
 body {
-  height: 491rem;
-  width: 32rem;
   left: 615.8rem;
   top: -216.4rem;
   box-sizing: border-box;
@@ -28,7 +26,7 @@ body {
   left: 28.4rem;
   top: 1.9rem;
   position: absolute;
-  margin-right: 1.6rem;
+  margin-right: 1.9rem;
 }
 
 .about-me {
@@ -88,6 +86,7 @@ body {
   margin-top: 2.2rem;
   margin-left: 1.6rem;
   margin-bottom: 3.2rem;
+  margin-right: 1.6rem;
 }
 
 .colbrate-with-me:hover {

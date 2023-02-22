@@ -1,3 +1,92 @@
-.header {
-    color: magenta;
+html {
+  font-size: 10px;
+}
+
+body {
+  left: 615.8rem;
+  top: -216.4rem;
+  box-sizing: border-box;
+}
+
+.toolbar-header {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.header-img1 {
+  height: 7.4rem;
+  width: 11.1rem;
+  position: absolute;
+}
+
+.header-img2 {
+  height: 1.4rem;
+  width: 2rem;
+  left: 28.4rem;
+  top: 1.9rem;
+  position: absolute;
+}
+
+.about-me {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.name {
+  height: 10rem;
+  width: 22rem;
+  left: 1.6rem;
+  top: 10.4rem;
+  position: absolute;
+  font-family: Playfair Display, sans-serif;
+  font-size: 5rem;
+  font-weight: 400;
+  line-height: 5rem;
+  text-align: left;
+  color: #1a2236;
+  text-transform: capitalize;
+  margin-left: 1.6rem;
+  margin-right: 8.4rem;
+}
+
+.about-me-detail {
+  width: 28.8rem;
+	height: 14.7rem;
+	top: 22.1rem;
+	left: 1.6rem;
+	font-family: Poppins;
+	font-size: 1.4rem;
+	font-weight: 400;
+	line-height: 2.1rem;
+	letter-spacing: -0.01em;
+	text-align: left;
+	position: absolute;
+	padding-top: 17px;
+}
+
+.colbrate-with-me {
+  height: 5rem;
+  width: 28.8rem;
+  left: 1.6rem;
+  top: 39rem;
+  position: absolute;
+  background-color: #1a2236;
+  color: #fff;
+  font-family: Poppins, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+  text-align: center;
+  border: none;
+  margin-top: 2.2rem;
+  margin-left: 1.6rem;
+  margin-bottom: 3.2rem;
+}
+
+.colbrate-with-me:hover {
+  border: 1px solid #1a2236;
+  background-color: #fff;
+  color: #1a2236;
 }
